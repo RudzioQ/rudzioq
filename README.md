@@ -8,7 +8,7 @@
 
 ---
 
-## 🇬🇧 About Me
+## EN About Me
 
 I'm a passionate software developer with a growing skill set and strong motivation to build modern, useful, and scalable applications.  
 I specialize in both frontend and backend technologies, with a curiosity for AI, automation, mobile apps, and the future of Web3.
