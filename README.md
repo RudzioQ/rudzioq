@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="assets/blob/main/banner.png" alt="Kacper's Banner" width="900" />
+  <img src="assets/banner.png" alt="Kacper's Banner" width="900" />
 </div>
 
 <h1 align="center">Hi there! 👋 I'm Kacper</h1>
