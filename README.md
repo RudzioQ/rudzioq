@@ -79,7 +79,7 @@ Kierunek: Technik Programista
 
 ## 🔗 Portfolio
 
-🌐 [My Portfolio Website](https://rudzioq.github.io)
+🌐 [My Portfolio Website](https://rudzioq.github.io) - work in progress...
 
 ---
 
